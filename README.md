@@ -1,6 +1,6 @@
 # Double-Ended Priority Queue
 
-[![tests](https://github.com/hsoni0303/Double-Ended-Priority-Queue/actions/workflows/tests.yml/badge.svg)](https://github.com/hsoni0303/Double-Ended-Priority-Queue/actions/workflows/tests.yml)
+[![tests](https://github.com/hsoni0303/Double_Ended_Priority_Queue/actions/workflows/tests.yml/badge.svg)](https://github.com/hsoni0303/Double_Ended_Priority_Queue/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
@@ -90,8 +90,8 @@ examples/
 ## Getting started
 
 ```bash
-git clone git@github.com:hsoni0303/Double-Ended-Priority-Queue.git
-cd Double-Ended-Priority-Queue
+git clone git@github.com:hsoni0303/Double_Ended_Priority_Queue.git
+cd Double_Ended_Priority_Queue
 pip install -e ".[dev]"
 
 pytest -q                 # run the test suite
